@@ -1,4 +1,4 @@
-# Customer Churn Analysis
+# Telco Customer Churn Analysis
 
 ## Overview
 This repository presents an analysis of customer churn trends, along with actionable recommendations to reduce churn and improve customer retention.
